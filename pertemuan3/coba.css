@@ -1,0 +1,25 @@
+h1 {
+  color: lightblue;
+  font-size: 50px;
+  font-family: arial;
+}
+
+p {
+  color: red;
+}
+
+.p2 {
+  color: orange;
+}
+
+#p3 {
+  color: green;
+}
+
+.huruf-besar {
+  text-transform: uppercase;
+}
+
+div.header p {
+  color: blue;
+}
